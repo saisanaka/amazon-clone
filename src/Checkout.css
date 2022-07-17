@@ -1,0 +1,18 @@
+.checkout {
+    display: flex;
+    width: 100%;
+}
+
+.title {
+    border-bottom: 1px solid gray;
+    padding: 10px;
+}
+
+.checkout__image {
+    width: 100%;
+}
+
+.checkout__right {
+    width: 40%;
+    min-height: 90%;
+}

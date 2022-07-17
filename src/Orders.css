@@ -1,0 +1,13 @@
+.orders{
+    display: flex;
+    flex-direction: column;
+    background-color: whitesmoke;
+}
+.orders > h1{
+    padding-left: 6.5%;
+}
+.orders__transfer{
+    padding: 20px 80px;
+    display: flex;
+    flex-direction: column;
+}
